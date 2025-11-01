@@ -56,11 +56,29 @@ bash scripts/setup-macos.sh
 
 ## Example Projects
 
-Once you're set up, try these beginner-friendly examples:
+### Beginner-Friendly Projects
+
+Start with these if you're new to programming:
 
 1. **[Simple Website Builder](docs/examples/website-builder.md)** - Create a personal website
 2. **[Task Automation Tool](docs/examples/task-automation.md)** - Automate repetitive tasks
 3. **[Data Organizer](docs/examples/data-organizer.md)** - Process and organize files
+
+### Professional & Career-Advancement Projects
+
+Use these to accelerate your career growth (perfect for sales managers, business professionals):
+
+1. **[Customer Intelligence Dashboard](docs/examples/customer-intelligence-dashboard.md)** - Aggregate customer data, identify opportunities, and know your accounts better than the competition
+2. **[Territory & Account Planner](docs/examples/territory-account-planner.md)** - Optimize territory coverage, prioritize high-value accounts, and maximize revenue
+3. **[10-Year Career Roadmap](docs/examples/sales-strategy-roadmap.md)** - Build a systematic plan to achieve double-digit growth and reach leadership positions
+4. **[Competitive Intelligence Tracker](docs/examples/competitive-intelligence.md)** - Track competitors, win more deals, and develop winning strategies
+
+**These projects help you:**
+- Make data-driven decisions
+- Work systematically, not just hard
+- Stand out as a strategic thinker
+- Build skills valued in leadership roles
+- Accelerate your path to promotion
 
 ## Getting Help
 
