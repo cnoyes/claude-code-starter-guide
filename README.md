@@ -80,6 +80,18 @@ Use these to accelerate your career growth (perfect for sales managers, business
 - Build skills valued in leadership roles
 - Accelerate your path to promotion
 
+### 💡 Entrepreneurial Opportunities
+
+**Ready to think bigger?** Turn your expertise into a venture-scale business:
+
+**[Disruptive Business Opportunities](docs/examples/disruptive-opportunities.md)** - Comprehensive analysis of 4 major opportunities in industrial B2B sales technology, including:
+- **AI Sales Copilot** - $600M market, potential $150-300M exit
+- **Industrial Procurement AI** - $6B market, potential $200-500M exit
+- **Sales Data Platform** - $2B market, potential $250-500M exit
+- **AI Technical Engineer** - $3B market, potential $300-600M exit
+
+**Includes:** Market analysis, business models, financial projections, competitive moats, and detailed 90-day execution plans. Perfect for those looking to achieve independent wealth in 5 years by leveraging industry expertise and Claude Code.
+
 ## Getting Help
 
 - **Stuck?** Check the [Troubleshooting Guide](docs/troubleshooting.md)
